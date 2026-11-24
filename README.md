@@ -3,7 +3,7 @@
 A local-first register and diagnostic tool for stalled and abandoned side projects.
 
 > **Status**: Completed hackathon project for Problem Statement 05 (PS 05) by Team **Code_Cartel**.  
-> **Live Demo**: [Live Demo]((https://project-graveyard-jnk4.vercel.app/)) 
+> **Live Demo**: [Live Demo](https://project-graveyard-jnk4.vercel.app/) 
 ---
 
 ## What It Is
